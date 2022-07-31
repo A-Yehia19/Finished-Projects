@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="209.0" prefWidth="341.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="yummies.project.Controllers.reCAPTCHA">
+   <children>
+      <Label fx:id="label" alignment="CENTER" layoutX="5.0" layoutY="30.0" prefHeight="32.0" prefWidth="333.0" text="Label">
+         <font>
+            <Font name="OCR A Extended" size="30.0" />
+         </font>
+      </Label>
+      <TextField fx:id="TF" layoutX="42.0" layoutY="96.0" prefHeight="32.0" prefWidth="257.0" promptText="Enter the Text Here..." />
+      <Button fx:id="btn" layoutX="115.0" layoutY="145.0" mnemonicParsing="false" onAction="#verify" prefHeight="40.0" prefWidth="112.0" text="Verify" AnchorPane.bottomAnchor="24.0" AnchorPane.topAnchor="145.0">
+         <font>
+            <Font name="Berlin Sans FB" size="20.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

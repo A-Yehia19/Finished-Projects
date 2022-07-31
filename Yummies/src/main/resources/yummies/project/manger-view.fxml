@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="350.0" prefWidth="350.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="yummies.project.Controllers.StaffControl">
+   <children>
+      <CheckBox fx:id="checktoremove" layoutX="111.0" layoutY="46.0" mnemonicParsing="false" onAction="#checkRemove" text="Sure to Remove">
+         <font>
+            <Font name="Berlin Sans FB" size="15.0" />
+         </font></CheckBox>
+      <Button fx:id="removestaff" disable="true" layoutX="66.0" layoutY="97.0" mnemonicParsing="false" onAction="#remove" text="Remove">
+         <font>
+            <Font name="Berlin Sans FB" size="15.0" />
+         </font></Button>
+      <Button fx:id="addstaff" layoutX="121.0" layoutY="183.0" mnemonicParsing="false" onAction="#addstaff" prefHeight="47.0" prefWidth="90.0" text="Add">
+         <font>
+            <Font name="Berlin Sans FB" size="15.0" />
+         </font></Button>
+      <TextField fx:id="idtxt" layoutX="166.0" layoutY="97.0" />
+      <Button layoutX="92.0" layoutY="263.0" mnemonicParsing="false" onAction="#viewstaffsalary" prefHeight="60.0" prefWidth="149.0" text="View Staff Salary">
+         <font>
+            <Font name="Berlin Sans FB" size="15.0" />
+         </font></Button>
+   </children>
+</AnchorPane>

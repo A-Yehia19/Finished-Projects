@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="450.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="yummies.project.Controllers.NewOrder">
+   <children>
+      <Label layoutX="135.0" layoutY="70.0" text="Make your Order">
+         <font>
+            <Font name="Berlin Sans FB" size="25.0" />
+         </font>
+      </Label>
+      <VBox layoutY="134.0" prefHeight="182.0" prefWidth="450.0" spacing="15.0">
+         <children>
+            <Label text="Order:">
+               <font>
+                  <Font name="Berlin Sans FB" size="20.0" />
+               </font>
+            </Label>
+            <HBox prefHeight="145.0" prefWidth="391.0">
+               <children>
+                  <VBox alignment="CENTER_LEFT" prefHeight="125.0" prefWidth="113.0" spacing="13.0">
+                     <children>
+                        <Label text="   Main Dish:">
+                           <font>
+                              <Font name="Berlin Sans FB" size="15.0" />
+                           </font></Label>
+                        <Label text="   Side Dish:">
+                           <font>
+                              <Font size="15.0" />
+                           </font></Label>
+                        <Label text="   Appetizer:">
+                           <font>
+                              <Font name="Berlin Sans FB" size="15.0" />
+                           </font></Label>
+                        <Label text="   Dessert:">
+                           <font>
+                              <Font name="Berlin Sans FB" size="15.0" />
+                           </font></Label>
+                        <Label text="   Drink:">
+                           <font>
+                              <Font name="Berlin Sans FB" size="15.0" />
+                           </font></Label>
+                     </children>
+                     <padding>
+                        <Insets left="15.0" right="15.0" />
+                     </padding>
+                  </VBox>
+                  <VBox prefHeight="145.0" prefWidth="248.0" spacing="5.0">
+                     <children>
+                        <ComboBox fx:id="mainDish" onAction="#selected" prefHeight="25.0" prefWidth="260.0" visibleRowCount="6" />
+                        <ComboBox fx:id="sideDish" onAction="#selected" prefHeight="25.0" prefWidth="327.0" visibleRowCount="6" />
+                        <ComboBox fx:id="appetizer" onAction="#selected" prefHeight="25.0" prefWidth="322.0" visibleRowCount="6" />
+                        <ComboBox fx:id="dessert" onAction="#selected" prefHeight="25.0" prefWidth="371.0" visibleRowCount="6" />
+                        <ComboBox fx:id="drink" onAction="#selected" prefHeight="25.0" prefWidth="358.0" visibleRowCount="6" />
+                     </children>
+                  </VBox>
+               </children>
+            </HBox>
+         </children>
+         <padding>
+            <Insets left="20.0" right="20.0" />
+         </padding>
+      </VBox>
+      <HBox alignment="CENTER" layoutY="399.0" prefHeight="0.0" prefWidth="450.0" spacing="5.0">
+         <children>
+            <Label text="Total Price:">
+               <font>
+                  <Font name="Berlin Sans FB" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="total" text="00">
+               <font>
+                  <Font name="Berlin Sans FB" size="18.0" />
+               </font></Label>
+         </children>
+      </HBox>
+      <Button fx:id="checkout" layoutX="177.0" layoutY="447.0" mnemonicParsing="false" onAction="#checkout_btn" text="Checkout">
+         <font>
+            <Font name="Berlin Sans FB" size="18.0" />
+         </font>
+      </Button>
+      <Label layoutX="330.0" layoutY="455.0" onMouseClicked="#ViewOrders" text="Order History" textFill="#2954e1" underline="true">
+         <font>
+            <Font name="Berlin Sans FB" size="15.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

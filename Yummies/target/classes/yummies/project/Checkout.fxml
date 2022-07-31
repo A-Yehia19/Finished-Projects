@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="565.0" prefWidth="350.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="yummies.project.Controllers.Checkout">
+   <children>
+      <Label layoutX="126.0" layoutY="70.0" text="Checkout">
+         <font>
+            <Font name="Berlin Sans FB" size="25.0" />
+         </font>
+      </Label>
+      <VBox layoutX="2.0" layoutY="116.0" prefHeight="165.0" prefWidth="350.0" spacing="10.0">
+         <children>
+            <Label text="Your Order:">
+               <font>
+                  <Font name="Berlin Sans FB" size="20.0" />
+               </font>
+            </Label>
+            <HBox alignment="CENTER_LEFT" spacing="5.0">
+               <children>
+                  <Label text="    Main Dish:">
+                     <font>
+                        <Font name="Berlin Sans FB" size="15.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="mainDish" text="--">
+                     <font>
+                        <Font name="Berlin Sans FB" size="15.0" />
+                     </font>
+                  </Label>
+               </children>
+            </HBox>
+            <HBox prefHeight="100.0" prefWidth="200.0" spacing="5.0">
+               <children>
+                  <Label text="    Side Dish:">
+                     <font>
+                        <Font name="Berlin Sans FB" size="15.0" />
+                     </font></Label>
+                  <Label fx:id="sideDish" text="--">
+                     <font>
+                        <Font name="Berlin Sans FB" size="15.0" />
+                     </font></Label>
+               </children>
+            </HBox>
+            <HBox prefHeight="100.0" prefWidth="200.0" spacing="5.0">
+               <children>
+                  <Label text="    Appitizer:">
+                     <font>
+                        <Font name="Berlin Sans FB" size="15.0" />
+                     </font></Label>
+                  <Label fx:id="appetizer" text="--">
+                     <font>
+                        <Font name="Berlin Sans FB" size="15.0" />
+                     </font></Label>
+               </children>
+            </HBox>
+            <HBox prefHeight="100.0" prefWidth="200.0" spacing="5.0">
+               <children>
+                  <Label text="    Dessert:">
+                     <font>
+                        <Font name="Berlin Sans FB" size="15.0" />
+                     </font></Label>
+                  <Label fx:id="dessert" text="--">
+                     <font>
+                        <Font name="Berlin Sans FB" size="15.0" />
+                     </font></Label>
+               </children>
+            </HBox>
+            <HBox prefHeight="100.0" prefWidth="200.0" spacing="5.0">
+               <children>
+                  <Label text="    Drink:">
+                     <font>
+                        <Font name="Berlin Sans FB" size="15.0" />
+                     </font></Label>
+                  <Label fx:id="drink" text="--">
+                     <font>
+                        <Font name="Berlin Sans FB" size="15.0" />
+                     </font></Label>
+               </children>
+            </HBox>
+         </children>
+         <padding>
+            <Insets left="10.0" right="10.0" />
+         </padding>
+      </VBox>
+      <CheckBox fx:id="delivery_check" layoutX="225.0" layoutY="294.0" mnemonicParsing="false" onAction="#checked" text="Delivery?">
+         <font>
+            <Font name="Berlin Sans FB" size="15.0" />
+         </font>
+      </CheckBox>
+      <VBox layoutX="2.0" layoutY="335.0" maxWidth="350.0" spacing="10.0">
+         <children>
+            <Label text="Payment Method:">
+               <font>
+                  <Font name="Berlin Sans FB" size="18.0" />
+               </font>
+            </Label>
+            <HBox alignment="CENTER" prefHeight="21.0" prefWidth="350.0" spacing="130.0">
+               <children>
+                  <RadioButton fx:id="cashRadio" mnemonicParsing="false" onAction="#cashSelected" text="Cash">
+                     <font>
+                        <Font name="Berlin Sans FB" size="15.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton fx:id="cardRadio" mnemonicParsing="false" onAction="#cardSelected" text="Card">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </RadioButton>
+               </children>
+            </HBox>
+         </children>
+         <padding>
+            <Insets left="10.0" right="10.0" />
+         </padding>
+      </VBox>
+      <HBox fx:id="cardDetails" alignment="CENTER" layoutX="2.0" layoutY="413.0" opacity="0.0" prefHeight="25.0" prefWidth="350.0" spacing="20.0">
+         <children>
+            <TextField fx:id="CardNoTF" disable="true" prefHeight="25.0" prefWidth="149.0" promptText="Card Number..." />
+            <TextField fx:id="EXPDateTF" disable="true" prefHeight="25.0" prefWidth="78.0" promptText="Exp. date" />
+            <TextField fx:id="PIN_TF" disable="true" prefHeight="25.0" prefWidth="58.0" promptText="PIN" />
+         </children>
+      </HBox>
+      <Button fx:id="confirm_btn" layoutX="134.0" layoutY="505.0" mnemonicParsing="false" onAction="#confirmed" prefHeight="29.0" prefWidth="85.0" text="Confirm">
+         <font>
+            <Font name="Berlin Sans FB" size="15.0" />
+         </font>
+      </Button>
+      <HBox alignment="CENTER" layoutX="2.0" layoutY="463.0" prefHeight="21.0" prefWidth="350.0" spacing="5.0">
+         <children>
+            <Label text="Total Price:">
+               <font>
+                  <Font name="Berlin Sans FB" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="total" text="00">
+               <font>
+                  <Font name="Berlin Sans FB" size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </HBox>
+      <TextField fx:id="addressTF" disable="true" layoutX="28.0" layoutY="292.0" opacity="0.0" prefHeight="25.0" prefWidth="174.0" promptText="Address..." />
+      <Label fx:id="warning" layoutX="88.0" layoutY="534.0" opacity="0.0" text="Please Choose Payment Method" textFill="RED" underline="true">
+         <font>
+            <Font name="Berlin Sans FB" size="13.0" />
+         </font>
+      </Label>
+      <TextField fx:id="paid" layoutX="53.0" layoutY="413.0" opacity="0.0" prefHeight="25.0" prefWidth="248.0" promptText="Payment Amount..." />
+   </children>
+</AnchorPane>

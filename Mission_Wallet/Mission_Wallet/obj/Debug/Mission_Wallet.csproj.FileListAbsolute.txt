@@ -1,0 +1,74 @@
+C:\Users\HP\Desktop\Term 5\5ara\de7ko part3\Mission_Wallett\Mission_Wallet\Mission_Wallet\bin\Debug\PARTFOUR.mdf
+C:\Users\HP\Desktop\Term 5\5ara\de7ko part3\Mission_Wallett\Mission_Wallet\Mission_Wallet\bin\Debug\PARTFOUR_log.ldf
+C:\Users\HP\Desktop\Term 5\5ara\de7ko part3\Mission_Wallett\Mission_Wallet\Mission_Wallet\bin\Debug\Mission_Wallet.exe.config
+C:\Users\HP\Desktop\Term 5\5ara\de7ko part3\Mission_Wallett\Mission_Wallet\Mission_Wallet\bin\Debug\Mission_Wallet.exe
+C:\Users\HP\Desktop\Term 5\5ara\de7ko part3\Mission_Wallett\Mission_Wallet\Mission_Wallet\bin\Debug\Mission_Wallet.pdb
+C:\Users\HP\Desktop\Term 5\5ara\de7ko part3\Mission_Wallett\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Term 5\5ara\de7ko part3\Mission_Wallett\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.AccessGrantedForm.resources
+C:\Users\HP\Desktop\Term 5\5ara\de7ko part3\Mission_Wallett\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.ExpensesForm.resources
+C:\Users\HP\Desktop\Term 5\5ara\de7ko part3\Mission_Wallett\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.IncomesForm.resources
+C:\Users\HP\Desktop\Term 5\5ara\de7ko part3\Mission_Wallett\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.LoginForm.resources
+C:\Users\HP\Desktop\Term 5\5ara\de7ko part3\Mission_Wallett\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.Properties.Resources.resources
+C:\Users\HP\Desktop\Term 5\5ara\de7ko part3\Mission_Wallett\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.RobotHumanCheckForm.resources
+C:\Users\HP\Desktop\Term 5\5ara\de7ko part3\Mission_Wallett\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.WalletsForm.resources
+C:\Users\HP\Desktop\Term 5\5ara\de7ko part3\Mission_Wallett\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Term 5\5ara\de7ko part3\Mission_Wallett\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Term 5\5ara\de7ko part3\Mission_Wallett\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.exe
+C:\Users\HP\Desktop\Term 5\5ara\de7ko part3\Mission_Wallett\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.pdb
+C:\Users\This PC\Desktop\Mission_Wallet_part_5ara\Mission_Wallet\Mission_Wallet\bin\Debug\PARTFOUR.mdf
+C:\Users\This PC\Desktop\Mission_Wallet_part_5ara\Mission_Wallet\Mission_Wallet\bin\Debug\PARTFOUR_log.ldf
+C:\Users\This PC\Desktop\Mission_Wallet_part_5ara\Mission_Wallet\Mission_Wallet\bin\Debug\Mission_Wallet.exe.config
+C:\Users\This PC\Desktop\Mission_Wallet_part_5ara\Mission_Wallet\Mission_Wallet\bin\Debug\Mission_Wallet.exe
+C:\Users\This PC\Desktop\Mission_Wallet_part_5ara\Mission_Wallet\Mission_Wallet\bin\Debug\Mission_Wallet.pdb
+C:\Users\This PC\Desktop\Mission_Wallet_part_5ara\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.csproj.AssemblyReference.cache
+C:\Users\This PC\Desktop\Mission_Wallet_part_5ara\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.Properties.Resources.resources
+C:\Users\This PC\Desktop\Mission_Wallet_part_5ara\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.csproj.GenerateResource.cache
+C:\Users\This PC\Desktop\Mission_Wallet_part_5ara\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.csproj.CoreCompileInputs.cache
+C:\Users\This PC\Desktop\Mission_Wallet_part_5ara\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.exe
+C:\Users\This PC\Desktop\Mission_Wallet_part_5ara\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.pdb
+C:\Users\This PC\Desktop\Mission_Wallet_part_5ara\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.FormAccessGranted.resources
+C:\Users\This PC\Desktop\Mission_Wallet_part_5ara\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.FormDebit.resources
+C:\Users\This PC\Desktop\Mission_Wallet_part_5ara\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.FormExpenses.resources
+C:\Users\This PC\Desktop\Mission_Wallet_part_5ara\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.FormIncomes.resources
+C:\Users\This PC\Desktop\Mission_Wallet_part_5ara\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.FormLogin.resources
+C:\Users\This PC\Desktop\Mission_Wallet_part_5ara\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.FormReport.resources
+C:\Users\This PC\Desktop\Mission_Wallet_part_5ara\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.FormRobotHumanCheck.resources
+C:\Users\This PC\Desktop\Mission_Wallet_part_5ara\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.FormWallets.resources
+C:\Users\This PC\Desktop\Mission_Wallet\Mission_Wallet\bin\Debug\PARTFOUR.mdf
+C:\Users\This PC\Desktop\Mission_Wallet\Mission_Wallet\bin\Debug\PARTFOUR_log.ldf
+C:\Users\This PC\Desktop\Mission_Wallet\Mission_Wallet\bin\Debug\Mission_Wallet.exe.config
+C:\Users\This PC\Desktop\Mission_Wallet\Mission_Wallet\bin\Debug\Mission_Wallet.exe
+C:\Users\This PC\Desktop\Mission_Wallet\Mission_Wallet\bin\Debug\Mission_Wallet.pdb
+C:\Users\This PC\Desktop\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.csproj.AssemblyReference.cache
+C:\Users\This PC\Desktop\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.FormAccessGranted.resources
+C:\Users\This PC\Desktop\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.FormDebit.resources
+C:\Users\This PC\Desktop\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.FormExpenses.resources
+C:\Users\This PC\Desktop\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.FormIncomes.resources
+C:\Users\This PC\Desktop\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.FormLogin.resources
+C:\Users\This PC\Desktop\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.Properties.Resources.resources
+C:\Users\This PC\Desktop\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.FormReport.resources
+C:\Users\This PC\Desktop\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.FormRobotHumanCheck.resources
+C:\Users\This PC\Desktop\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.FormWallets.resources
+C:\Users\This PC\Desktop\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.csproj.GenerateResource.cache
+C:\Users\This PC\Desktop\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.csproj.CoreCompileInputs.cache
+C:\Users\This PC\Desktop\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.exe
+C:\Users\This PC\Desktop\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.pdb
+D:\AAST\MY Programs\Mission_Wallet\Mission_Wallet\bin\Debug\PARTFOUR.mdf
+D:\AAST\MY Programs\Mission_Wallet\Mission_Wallet\bin\Debug\PARTFOUR_log.ldf
+D:\AAST\MY Programs\Mission_Wallet\Mission_Wallet\bin\Debug\Mission_Wallet.exe.config
+D:\AAST\MY Programs\Mission_Wallet\Mission_Wallet\bin\Debug\Mission_Wallet.exe
+D:\AAST\MY Programs\Mission_Wallet\Mission_Wallet\bin\Debug\Mission_Wallet.pdb
+D:\AAST\MY Programs\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.csproj.AssemblyReference.cache
+D:\AAST\MY Programs\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.FormAccessGranted.resources
+D:\AAST\MY Programs\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.FormDebit.resources
+D:\AAST\MY Programs\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.FormExpenses.resources
+D:\AAST\MY Programs\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.FormIncomes.resources
+D:\AAST\MY Programs\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.FormLogin.resources
+D:\AAST\MY Programs\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.Properties.Resources.resources
+D:\AAST\MY Programs\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.FormReport.resources
+D:\AAST\MY Programs\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.FormRobotHumanCheck.resources
+D:\AAST\MY Programs\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.FormWallets.resources
+D:\AAST\MY Programs\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.csproj.GenerateResource.cache
+D:\AAST\MY Programs\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.csproj.CoreCompileInputs.cache
+D:\AAST\MY Programs\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.exe
+D:\AAST\MY Programs\Mission_Wallet\Mission_Wallet\obj\Debug\Mission_Wallet.pdb

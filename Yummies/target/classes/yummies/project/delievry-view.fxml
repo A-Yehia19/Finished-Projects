@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="yummies.project.Controllers.StaffControl">
+   <children>
+      <Button layoutX="223.0" layoutY="14.0" mnemonicParsing="false" onAction="#currentorderdelivery" prefHeight="100.0" prefWidth="154.0" text="Current Order">
+         <font>
+            <Font name="Berlin Sans FB" size="15.0" />
+         </font></Button>
+      <Button layoutX="197.0" layoutY="286.0" mnemonicParsing="false" onAction="#viewOrderRemaining" prefHeight="100.0" prefWidth="207.0" text="View remaning orders">
+         <font>
+            <Font name="Berlin Sans FB" size="19.0" />
+         </font></Button>
+      <Label layoutX="73.0" layoutY="141.0" prefHeight="18.0" prefWidth="101.0" text="Order Number:">
+         <font>
+            <Font name="Berlin Sans FB" size="15.0" />
+         </font></Label>
+      <Label fx:id="ordernumber" layoutX="195.0" layoutY="142.0" prefHeight="18.0" prefWidth="80.0" text="--" underline="true">
+         <font>
+            <Font name="Berlin Sans FB" size="15.0" />
+         </font></Label>
+      <Button layoutX="431.0" layoutY="138.0" mnemonicParsing="false" onAction="#deliver" prefHeight="32.0" prefWidth="87.0" text="Deliver">
+         <font>
+            <Font name="Berlin Sans FB" size="15.0" />
+         </font></Button>
+      <Label fx:id="deleivertxt" layoutX="454.0" layoutY="183.0" text="----">
+         <font>
+            <Font name="Berlin Sans FB" size="15.0" />
+         </font></Label>
+   </children>
+</AnchorPane>
